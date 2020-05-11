@@ -1,0 +1,2 @@
+websocket
+python3-rpi.gpio
